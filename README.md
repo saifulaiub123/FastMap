@@ -1,1 +1,2 @@
-**FastMap** – High-Performance, Type-Safe Object Mapper for .NET
+**MapExpress** – High-Performance, Type-Safe Object Mapper for .NET
+
